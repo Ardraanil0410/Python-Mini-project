@@ -1,10 +1,3 @@
-# 1. Number Guessing Game (with a twist)
-# Goal: Let the user guess a number between 1 and 100.
-#
-# Twist: Limit the number of guesses (use break when they get it right).
-#
-# Concepts: loops, input, break, conditions
-
 correct_number=25
 guess=0
 while guess<10:
